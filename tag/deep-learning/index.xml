@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Academic</title>
+    <link>https://tenderzada.github.io/tag/deep-learning/</link>
+      <atom:link href="https://tenderzada.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tenderzada.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Learning</title>
+      <link>https://tenderzada.github.io/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Example Project</title>
+      <link>https://tenderzada.github.io/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://tenderzada.github.io/project/example/</guid>
+      <description>&lt;p&gt;In recent years, due to the development of drone technology and the diversification of application scenarios, the use of drones for power inspection has become a hot research object. With the mobility and portability of drones, it is expected to achieve safety, efficiency, and intelligence. Inspection of power lines.&lt;/p&gt;
+&lt;p&gt;There are two main tasks in this paper. 1. it is proposed to use the latest Yolov5 object detection algorithm for transmission line defect detection, and to independently label the undisclosed transmission line data set (a total of 3393 pictures) to train the Yolov5 model, and deploy the model on Jetson Nano. In the test, it is carried on the drone for testing to achieve a detection speed of 32fps and an accuracy of 96%. 2. Design and implement an alarm message push mechanism for interaction between the onboard Jetson Nano and the server, and then develop a transmission line defect detection alarm system. The system is equipped with an intuitive alarm visualization interface to support offline detection and online detection.&lt;/p&gt;
+&lt;p&gt;This system provides a complete and intelligent platform for transmission line defect detection, which is an important step towards the realization of intelligent transmission line inspection.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; power inspection, defect detection, Jetson Nano, UAV, Yolov5&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
